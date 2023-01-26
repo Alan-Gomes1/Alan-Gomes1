@@ -1,7 +1,7 @@
 ## Seja muito bem-vindo!
 
 <div>
-  
+
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-Gomes1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-gomes1&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -18,8 +18,8 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-    
-  
+​    
+
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alan.gomespro@gmail.com">
       <img width="30" src="gmail.svg">
@@ -35,5 +35,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
+
 ![Snake animation](https://github.com/Alan-Gomes1/Alan-Gomes1/blob/output/github-contribution-grid-snake.svg)
